@@ -1,0 +1,196 @@
+{
+  "series": [
+    {
+      "id": "cp20",
+      "name": "CP20",
+      "generation": "CP20",
+      "notes": "Older panels with larger dots, better for low-res cameras",
+      "objects": [
+        {
+          "name": "CQ10x8",
+          "mv_min": 9,
+          "mv_max": 12,
+          "ref_point_sizes_mm": [0.4],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CQ15x12",
+          "mv_min": 14,
+          "mv_max": 18,
+          "ref_point_sizes_mm": [0.4],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CQ20/30x24",
+          "mv_min": 27,
+          "mv_max": 50,
+          "ref_point_sizes_mm": [0.4],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CQ20/55x44",
+          "mv_min": 46,
+          "mv_max": 88,
+          "ref_point_sizes_mm": [0.4],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CP20/90x72",
+          "mv_min": 78,
+          "mv_max": 130,
+          "ref_point_sizes_mm": [0.4, 0.8],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CP20/175x140",
+          "mv_min": 140,
+          "mv_max": 200,
+          "ref_point_sizes_mm": [0.8, 1.5],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CP20/250x200",
+          "mv_min": 205,
+          "mv_max": 365,
+          "ref_point_sizes_mm": [1.5],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CP20/350x280",
+          "mv_min": 300,
+          "mv_max": 700,
+          "ref_point_sizes_mm": [1.5, 3.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CC20/500x400",
+          "mv_min": 470,
+          "mv_max": 660,
+          "ref_point_sizes_mm": [3.0, 5.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        }
+      ]
+    },
+    {
+      "id": "cp40",
+      "name": "CP40",
+      "generation": "CP40",
+      "notes": "Newer panels, smaller dots, designed for 12M+ cameras",
+      "objects": [
+        {
+          "name": "CQ40-038",
+          "mv_min": 10,
+          "mv_max": 46,
+          "ref_point_sizes_mm": [0.4],
+          "dot_size_mm": null,
+          "min_resolution_mpx": 2.0
+        },
+        {
+          "name": "CQ40-060",
+          "mv_min": 28,
+          "mv_max": 77,
+          "ref_point_sizes_mm": [0.4, 0.8],
+          "dot_size_mm": null,
+          "min_resolution_mpx": 2.0
+        },
+        {
+          "name": "CP40-100",
+          "mv_min": 53,
+          "mv_max": 146,
+          "ref_point_sizes_mm": [0.4],
+          "dot_size_mm": null,
+          "min_resolution_mpx": 2.0
+        },
+        {
+          "name": "CP40-170",
+          "mv_min": 77,
+          "mv_max": 211,
+          "ref_point_sizes_mm": [0.4, 0.8],
+          "dot_size_mm": null,
+          "min_resolution_mpx": 2.0
+        },
+        {
+          "name": "CP40-200",
+          "mv_min": 113,
+          "mv_max": 221,
+          "ref_point_sizes_mm": [0.8, 1.5],
+          "dot_size_mm": null,
+          "min_resolution_mpx": 2.0
+        },
+        {
+          "name": "CP40-320",
+          "mv_min": 180,
+          "mv_max": 496,
+          "ref_point_sizes_mm": [0.8, 1.5, 3.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": 1.0
+        }
+      ]
+    },
+    {
+      "id": "cc20",
+      "name": "CC20",
+      "generation": "CC20",
+      "notes": "Large panels",
+      "objects": [
+        {
+          "name": "CC20-500",
+          "mv_min": 380,
+          "mv_max": 660,
+          "ref_point_sizes_mm": [3.0, 5.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CC20-700",
+          "mv_min": 530,
+          "mv_max": 900,
+          "ref_point_sizes_mm": [3.0, 5.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CC20-1000",
+          "mv_min": 760,
+          "mv_max": 1280,
+          "ref_point_sizes_mm": [5.0, 8.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CC20-1400",
+          "mv_min": 1060,
+          "mv_max": 1800,
+          "ref_point_sizes_mm": [5.0, 8.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CC20-2000",
+          "mv_min": 1500,
+          "mv_max": 2500,
+          "ref_point_sizes_mm": [8.0, 12.0, 15.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        },
+        {
+          "name": "CC20-2500",
+          "mv_min": 1900,
+          "mv_max": 3200,
+          "ref_point_sizes_mm": [12.0, 18.0],
+          "dot_size_mm": null,
+          "min_resolution_mpx": null
+        }
+      ]
+    }
+  ]
+}

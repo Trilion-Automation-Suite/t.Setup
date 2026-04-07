@@ -1,0 +1,128 @@
+[
+  {
+    "id": "aramis-12m-adj-500",
+    "name": "ARAMIS 12M Adjustable 500",
+    "description": "12M camera pair on Adjustable Base 500",
+    "camera_id": "zeiss-12m-fg",
+    "lens_id": "titanar-35",
+    "base_id": "adjustable-base-500",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-12m-adj-800",
+    "name": "ARAMIS 12M Adjustable 800",
+    "description": "12M camera pair on Adjustable Base 800",
+    "camera_id": "zeiss-12m-fg",
+    "lens_id": "titanar-35",
+    "base_id": "adjustable-base-800",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-srx-adj-500",
+    "name": "ARAMIS SRX Adjustable 500",
+    "description": "SRX camera pair on Adjustable Base 500",
+    "camera_id": "zeiss-srx-gige",
+    "lens_id": "titanar-35",
+    "base_id": "adjustable-base-500",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-srx-adj-800",
+    "name": "ARAMIS SRX Adjustable 800",
+    "description": "SRX camera pair on Adjustable Base 800",
+    "camera_id": "zeiss-srx-gige",
+    "lens_id": "titanar-35",
+    "base_id": "adjustable-base-800",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-3d-150-6m",
+    "name": "ARAMIS 3D 150 6M",
+    "description": "6M camera pair on ARAMIS 3D 150 base",
+    "camera_id": "zeiss-6m-usb",
+    "lens_id": "schneider-24",
+    "base_id": "aramis-3d-150",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-3d-300-6m",
+    "name": "ARAMIS 3D 300 6M",
+    "description": "6M camera pair on ARAMIS 3D 300 base",
+    "camera_id": "zeiss-6m-usb",
+    "lens_id": "schneider-35",
+    "base_id": "aramis-3d-300",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-3d-300-12m",
+    "name": "ARAMIS 3D 300 12M",
+    "description": "12M USB camera pair on ARAMIS 3D 300 base",
+    "camera_id": "zeiss-12m-usb",
+    "lens_id": "schneider-24",
+    "base_id": "aramis-3d-300",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-3d-600-6m",
+    "name": "ARAMIS 3D 600 6M",
+    "description": "6M camera pair on ARAMIS 3D 600 base",
+    "camera_id": "zeiss-6m-usb",
+    "lens_id": "schneider-50",
+    "base_id": "aramis-3d-600",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-3d-600-12m",
+    "name": "ARAMIS 3D 600 12M",
+    "description": "12M USB camera pair on ARAMIS 3D 600 base",
+    "camera_id": "zeiss-12m-usb",
+    "lens_id": "schneider-35",
+    "base_id": "aramis-3d-600",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-3d-1200-12m",
+    "name": "ARAMIS 3D 1200 12M",
+    "description": "12M USB camera pair on ARAMIS 3D 1200 base",
+    "camera_id": "zeiss-12m-usb",
+    "lens_id": "schneider-50",
+    "base_id": "aramis-3d-1200",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-srx-180",
+    "name": "ARAMIS SRX 180",
+    "description": "SRX camera pair on ARAMIS SRX 180 base",
+    "camera_id": "zeiss-srx-gige",
+    "lens_id": "titanar-24",
+    "base_id": "aramis-srx-180",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-srx-300",
+    "name": "ARAMIS SRX 300",
+    "description": "SRX camera pair on ARAMIS SRX 300 base",
+    "camera_id": "zeiss-srx-gige",
+    "lens_id": "titanar-35",
+    "base_id": "aramis-srx-300",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-srx-600",
+    "name": "ARAMIS SRX 600",
+    "description": "SRX camera pair on ARAMIS SRX 600 base",
+    "camera_id": "zeiss-srx-gige",
+    "lens_id": "titanar-50",
+    "base_id": "aramis-srx-600",
+    "is_builtin": true
+  },
+  {
+    "id": "aramis-srx-1200",
+    "name": "ARAMIS SRX 1200",
+    "description": "SRX camera pair on ARAMIS SRX 1200 base",
+    "camera_id": "zeiss-srx-gige",
+    "lens_id": "titanar-75",
+    "base_id": "aramis-srx-1200",
+    "is_builtin": true
+  }
+]

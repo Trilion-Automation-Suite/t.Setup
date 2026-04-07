@@ -1,0 +1,299 @@
+[
+  {
+    "id": "adjustable-base-500",
+    "name": "Adjustable Base 500",
+    "manufacturer": "ZEISS",
+    "is_adjustable": true,
+    "min_slider_distance": 57,
+    "max_slider_distance": 388,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": null,
+    "angle_source": null,
+    "slider_offset": 25.0,
+    "distance_offset": -24.5,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-4m-fg",
+      "zeiss-6m-usb",
+      "zeiss-12m-fg",
+      "zeiss-12m-usb",
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "adjustable-base-800",
+    "name": "Adjustable Base 800",
+    "manufacturer": "ZEISS",
+    "is_adjustable": true,
+    "min_slider_distance": 57,
+    "max_slider_distance": 688,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": null,
+    "angle_source": null,
+    "slider_offset": 25.0,
+    "distance_offset": -24.5,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-4m-fg",
+      "zeiss-6m-usb",
+      "zeiss-12m-fg",
+      "zeiss-12m-usb",
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "aramis-3d-150",
+    "name": "ARAMIS 3D 150",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 150,
+    "max_slider_distance": 150,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 6.6,
+    "distance_offset": -20.25,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-6m-usb",
+      "zeiss-12m-usb"
+    ]
+  },
+  {
+    "id": "aramis-3d-300",
+    "name": "ARAMIS 3D 300",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 300,
+    "max_slider_distance": 300,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 9.4,
+    "distance_offset": -20.25,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-6m-usb",
+      "zeiss-12m-usb"
+    ]
+  },
+  {
+    "id": "aramis-3d-600",
+    "name": "ARAMIS 3D 600",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 600,
+    "max_slider_distance": 600,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 14.9,
+    "distance_offset": -20.25,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-6m-usb",
+      "zeiss-12m-usb"
+    ]
+  },
+  {
+    "id": "aramis-3d-1200",
+    "name": "ARAMIS 3D 1200",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 1200,
+    "max_slider_distance": 1200,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 3.4,
+    "distance_offset": -20.25,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-6m-usb",
+      "zeiss-12m-usb"
+    ]
+  },
+  {
+    "id": "aramis-3d-1600",
+    "name": "ARAMIS 3D 1600",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 1600,
+    "max_slider_distance": 1600,
+    "default_angle_deg": 20.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 2.4,
+    "distance_offset": -23.0,
+    "supported_camera_ids": [
+      "zeiss-2.3m-usb",
+      "zeiss-6m-usb",
+      "zeiss-12m-usb"
+    ]
+  },
+  {
+    "id": "aramis-srx-180",
+    "name": "ARAMIS SRX 180",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 180,
+    "max_slider_distance": 180,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 3.35,
+    "distance_offset": -13.4,
+    "supported_camera_ids": [
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "aramis-srx-300",
+    "name": "ARAMIS SRX 300",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 300,
+    "max_slider_distance": 300,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 9.35,
+    "distance_offset": -13.4,
+    "supported_camera_ids": [
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "aramis-srx-600",
+    "name": "ARAMIS SRX 600",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 600,
+    "max_slider_distance": 600,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 14.35,
+    "distance_offset": -13.4,
+    "supported_camera_ids": [
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "aramis-srx-1200",
+    "name": "ARAMIS SRX 1200",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 1200,
+    "max_slider_distance": 1200,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 2.85,
+    "distance_offset": -13.4,
+    "supported_camera_ids": [
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "aramis-srx-1600",
+    "name": "ARAMIS SRX 1600",
+    "manufacturer": "ZEISS",
+    "is_adjustable": false,
+    "min_slider_distance": 1600,
+    "max_slider_distance": 1600,
+    "default_angle_deg": 20.0,
+    "available_angles_deg": [15, 20, 25, 30],
+    "angle_source": {
+      "25": "ZEISS certified",
+      "15": "MeGo bracket",
+      "20": "MeGo bracket",
+      "30": "MeGo bracket"
+    },
+    "slider_offset": 2.7,
+    "distance_offset": -16.2,
+    "supported_camera_ids": [
+      "zeiss-srx-gige",
+      "zeiss-srx-hd-gige"
+    ]
+  },
+  {
+    "id": "custom-rig",
+    "name": "Custom Camera Bar",
+    "manufacturer": "Custom",
+    "is_adjustable": true,
+    "min_slider_distance": 10,
+    "max_slider_distance": 3000,
+    "default_angle_deg": 25,
+    "available_angles_deg": null,
+    "angle_source": null,
+    "slider_offset": 0,
+    "distance_offset": 0,
+    "supported_camera_ids": []
+  },
+  {
+    "id": "aramis-1-500",
+    "name": "ARAMIS 1 (500mm)",
+    "manufacturer": "ZEISS",
+    "is_adjustable": true,
+    "min_slider_distance": 68,
+    "max_slider_distance": 388,
+    "default_angle_deg": 25.0,
+    "available_angles_deg": null,
+    "angle_source": null,
+    "slider_offset": 25.0,
+    "distance_offset": -24.5,
+    "supported_camera_ids": ["zeiss-aramis-1"]
+  }
+]

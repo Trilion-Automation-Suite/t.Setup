@@ -1,0 +1,32 @@
+[
+  {
+    "mv_min": 0,
+    "mv_max": 50,
+    "pattern_size_mm": 0.15,
+    "sensor_category": "12M"
+  },
+  {
+    "mv_min": 50,
+    "mv_max": 150,
+    "pattern_size_mm": 0.30,
+    "sensor_category": "12M"
+  },
+  {
+    "mv_min": 150,
+    "mv_max": 350,
+    "pattern_size_mm": 0.45,
+    "sensor_category": "12M"
+  },
+  {
+    "mv_min": 350,
+    "mv_max": 700,
+    "pattern_size_mm": 0.60,
+    "sensor_category": "12M"
+  },
+  {
+    "mv_min": 700,
+    "mv_max": 1500,
+    "pattern_size_mm": 0.75,
+    "sensor_category": "12M"
+  }
+]
