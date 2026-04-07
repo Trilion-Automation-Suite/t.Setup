@@ -120,7 +120,8 @@
       "schneider-12",
       "schneider-24",
       "schneider-35",
-      "schneider-50"
+      "schneider-50",
+      "opt-80"
     ],
     "is_high_speed": false,
     "frame_rate_table_id": null,

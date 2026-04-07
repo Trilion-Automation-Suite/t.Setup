@@ -34,6 +34,23 @@
     "filter_thread": null
   },
   {
+    "id": "opt-80",
+    "name": "OPT 80mm",
+    "manufacturer": "OPT",
+    "series": "OPT",
+    "mount": "C-mount",
+    "focal_length": 80.0,
+    "real_focal_length": 80.0,
+    "principal_plane_distance": 0.0,
+    "length_mm": 60.0,
+    "outer_diameter_mm": 40.0,
+    "min_aperture": 4.0,
+    "max_aperture": 22,
+    "image_circle_mm": null,
+    "min_working_distance_mm": null,
+    "filter_thread": null
+  },
+  {
     "id": "schneider-12",
     "name": "Opal 12mm",
     "manufacturer": "Schneider Kreuznach",
@@ -48,7 +65,7 @@
     "max_aperture": 22,
     "image_circle_mm": 17.6,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M40.5 x 0.5"
   },
   {
     "id": "schneider-24",
@@ -65,7 +82,7 @@
     "max_aperture": 16,
     "image_circle_mm": 24.0,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M37 x 0.75"
   },
   {
     "id": "schneider-35",
@@ -82,7 +99,7 @@
     "max_aperture": 22,
     "image_circle_mm": 24.0,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M37 x 0.75"
   },
   {
     "id": "schneider-50",
@@ -99,7 +116,7 @@
     "max_aperture": 32,
     "image_circle_mm": 24.0,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M30.5 x 0.5"
   },
   {
     "id": "titanar-20",
@@ -269,7 +286,7 @@
     "max_aperture": 16,
     "image_circle_mm": 24.0,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M49 x 0.75"
   },
   {
     "id": "schneider-tourmaline-20",
@@ -286,7 +303,7 @@
     "max_aperture": 16,
     "image_circle_mm": 24.0,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M35.5 x 0.5"
   },
   {
     "id": "schneider-tourmaline-45",
@@ -303,7 +320,7 @@
     "max_aperture": 22,
     "image_circle_mm": 24.0,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M30.5 x 0.5"
   },
   {
     "id": "schneider-jade-12",
@@ -320,7 +337,7 @@
     "max_aperture": 22,
     "image_circle_mm": 19.3,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M62 x 0.75"
   },
   {
     "id": "schneider-jade-16",
@@ -337,7 +354,7 @@
     "max_aperture": 22,
     "image_circle_mm": 19.3,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M37 x 0.75"
   },
   {
     "id": "schneider-jade-25",
@@ -354,7 +371,7 @@
     "max_aperture": 16,
     "image_circle_mm": 19.3,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M30.5 x 0.5"
   },
   {
     "id": "schneider-jade-35",
@@ -371,7 +388,7 @@
     "max_aperture": 22,
     "image_circle_mm": 19.3,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M30.5 x 0.5"
   },
   {
     "id": "schneider-jade-50",
@@ -388,7 +405,7 @@
     "max_aperture": 22,
     "image_circle_mm": 19.3,
     "min_working_distance_mm": null,
-    "filter_thread": null
+    "filter_thread": "M30.5 x 0.5"
   },
   {
     "id": "schneider-emerald-28",
@@ -439,7 +456,7 @@
     "max_aperture": 16,
     "image_circle_mm": 62.5,
     "min_working_distance_mm": null,
-    "filter_thread": "M52 x 0.75"
+    "filter_thread": "M43 x 0.75"
   },
   {
     "id": "schneider-emerald-100",
@@ -473,6 +490,6 @@
     "max_aperture": 22,
     "image_circle_mm": 90.0,
     "min_working_distance_mm": null,
-    "filter_thread": "M52 x 0.75"
+    "filter_thread": "M49 x 0.75"
   }
 ]
