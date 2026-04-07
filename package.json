@@ -1,0 +1,6 @@
+{
+  "name": "t-setup",
+  "version": "0.1.2",
+  "private": true,
+  "description": "Stereo camera sensor/lens/volume calculator for DIC systems"
+}

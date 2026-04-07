@@ -13,7 +13,14 @@
     "chip_offset_z": 18.246,
     "chip_offset_y": 26.9,
     "lens_mount": "C-mount",
-    "supported_lens_ids": ["kowa-12.5", "schneider-24", "schneider-35", "schneider-50", "titanar-75", "titanar-100"],
+    "supported_lens_ids": [
+      "kowa-12.5",
+      "schneider-24",
+      "schneider-35",
+      "schneider-50",
+      "titanar-75",
+      "titanar-100"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "legacy"
@@ -32,7 +39,13 @@
     "chip_offset_z": 19.941,
     "chip_offset_y": 37.0,
     "lens_mount": "F-mount",
-    "supported_lens_ids": ["titanar-20", "titanar-35", "titanar-50", "titanar-75", "titanar-100"],
+    "supported_lens_ids": [
+      "titanar-20",
+      "titanar-35",
+      "titanar-50",
+      "titanar-75",
+      "titanar-100"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "legacy"
@@ -51,7 +64,15 @@
     "chip_offset_z": 17.675,
     "chip_offset_y": 29.5,
     "lens_mount": "C-mount",
-    "supported_lens_ids": ["schneider-10", "kowa-12.5", "schneider-24", "schneider-35", "schneider-50", "titanar-75", "titanar-100"],
+    "supported_lens_ids": [
+      "schneider-10",
+      "kowa-12.5",
+      "schneider-24",
+      "schneider-35",
+      "schneider-50",
+      "titanar-75",
+      "titanar-100"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "legacy"
@@ -70,7 +91,13 @@
     "chip_offset_z": 19.941,
     "chip_offset_y": 37.0,
     "lens_mount": "F-mount",
-    "supported_lens_ids": ["titanar-20", "titanar-35", "titanar-50", "titanar-75", "titanar-100"],
+    "supported_lens_ids": [
+      "titanar-20",
+      "titanar-35",
+      "titanar-50",
+      "titanar-75",
+      "titanar-100"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "legacy"
@@ -89,7 +116,12 @@
     "chip_offset_z": 21.078,
     "chip_offset_y": 21.5,
     "lens_mount": "C-mount",
-    "supported_lens_ids": ["schneider-12", "schneider-24", "schneider-35", "schneider-50"],
+    "supported_lens_ids": [
+      "schneider-12",
+      "schneider-24",
+      "schneider-35",
+      "schneider-50"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current"
@@ -108,7 +140,10 @@
     "chip_offset_z": 21.078,
     "chip_offset_y": 21.5,
     "lens_mount": "C-mount",
-    "supported_lens_ids": ["aramis1-12", "aramis1-25"],
+    "supported_lens_ids": [
+      "aramis1-12",
+      "aramis1-25"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current"
@@ -126,8 +161,14 @@
     "chip_offset_x": 0.0,
     "chip_offset_z": 15.772,
     "chip_offset_y": 42.0,
-    "lens_mount": "F-mount",
-    "supported_lens_ids": ["titanar-24", "titanar-35", "titanar-50", "titanar-75", "titanar-100"],
+    "lens_mount": "M42-mount",
+    "supported_lens_ids": [
+      "titanar-24",
+      "titanar-35",
+      "titanar-50",
+      "titanar-75",
+      "titanar-100"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current"
@@ -145,8 +186,15 @@
     "chip_offset_x": 0.0,
     "chip_offset_z": 15.772,
     "chip_offset_y": 42.0,
-    "lens_mount": "F-mount",
-    "supported_lens_ids": ["schneider-10", "titanar-24", "titanar-35", "titanar-50", "titanar-75", "titanar-100"],
+    "lens_mount": "M42-mount",
+    "supported_lens_ids": [
+      "schneider-10",
+      "titanar-24",
+      "titanar-35",
+      "titanar-50",
+      "titanar-75",
+      "titanar-100"
+    ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current"
@@ -501,7 +549,7 @@
     "sensor_model": "NOVA S6",
     "resolution_x": 1024,
     "resolution_y": 1024,
-    "pixel_size_mm": 0.020,
+    "pixel_size_mm": 0.02,
     "sensor_type": "High-Speed",
     "chip_offset_x": 0.0,
     "chip_offset_z": 0.0,
@@ -520,7 +568,7 @@
     "sensor_model": "NOVA S9",
     "resolution_x": 1024,
     "resolution_y": 1024,
-    "pixel_size_mm": 0.020,
+    "pixel_size_mm": 0.02,
     "sensor_type": "High-Speed",
     "chip_offset_x": 0.0,
     "chip_offset_z": 0.0,
@@ -539,7 +587,7 @@
     "sensor_model": "NOVA S12",
     "resolution_x": 1024,
     "resolution_y": 1024,
-    "pixel_size_mm": 0.020,
+    "pixel_size_mm": 0.02,
     "sensor_type": "High-Speed",
     "chip_offset_x": 0.0,
     "chip_offset_z": 0.0,
