@@ -125,7 +125,8 @@
     ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "sort_order": 2
   },
   {
     "id": "zeiss-24m-25gige",
@@ -149,7 +150,8 @@
     ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "sort_order": 3
   },
   {
     "id": "zeiss-aramis-1",
@@ -171,7 +173,8 @@
     ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "sort_order": 1
   },
   {
     "id": "zeiss-srx-gige",
@@ -196,14 +199,15 @@
     ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "sort_order": 4
   },
   {
     "id": "zeiss-srx-hd-gige",
-    "name": "SRX HD (GigE)",
+    "name": "SRX (binning)",
     "manufacturer": "ZEISS",
     "model": "ARAMIS SRX HD",
-    "sensor_model": "SRX HD (GigE)",
+    "sensor_model": "SRX HD (GigE, binning mode)",
     "resolution_x": 1920,
     "resolution_y": 1000,
     "pixel_size_mm": 0.0055,
@@ -222,10 +226,12 @@
     ],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "sort_order": 5
   },
   {
     "id": "phantom-tmx-6410",
+    "sort_order": 11,
     "name": "Phantom TMX 6410",
     "manufacturer": "Vision Research",
     "model": "Phantom TMX 6410",
@@ -245,6 +251,7 @@
   },
   {
     "id": "phantom-kt1640",
+    "sort_order": 6,
     "name": "Phantom KT1640",
     "manufacturer": "Vision Research",
     "model": "Phantom KT1640",
@@ -264,6 +271,7 @@
   },
   {
     "id": "phantom-t3610",
+    "sort_order": 8,
     "name": "Phantom T3610",
     "manufacturer": "Vision Research",
     "model": "Phantom T3610",
@@ -283,6 +291,7 @@
   },
   {
     "id": "photron-orion-s40",
+    "sort_order": 5,
     "name": "Photron Orion S40",
     "manufacturer": "Photron",
     "model": "Orion S40",
@@ -302,6 +311,7 @@
   },
   {
     "id": "photron-fastcam-mini-w5",
+    "sort_order": 4,
     "name": "Photron FASTCAM Mini W5",
     "manufacturer": "Photron",
     "model": "FASTCAM Mini W5",
@@ -321,6 +331,7 @@
   },
   {
     "id": "phantom-tmx-7510",
+    "sort_order": 12,
     "name": "Phantom TMX 7510",
     "manufacturer": "Vision Research",
     "model": "Phantom TMX 7510",
@@ -340,6 +351,7 @@
   },
   {
     "id": "phantom-tmx-5010",
+    "sort_order": 10,
     "name": "Phantom TMX 5010",
     "manufacturer": "Vision Research",
     "model": "Phantom TMX 5010",
@@ -359,6 +371,7 @@
   },
   {
     "id": "phantom-t2410",
+    "sort_order": 7,
     "name": "Phantom T2410",
     "manufacturer": "Vision Research",
     "model": "Phantom T2410",
@@ -378,6 +391,7 @@
   },
   {
     "id": "phantom-t4040",
+    "sort_order": 9,
     "name": "Phantom T4040",
     "manufacturer": "Vision Research",
     "model": "Phantom T4040",
@@ -397,6 +411,7 @@
   },
   {
     "id": "phantom-kt1240",
+    "sort_order": 5,
     "name": "Phantom KT1240",
     "manufacturer": "Vision Research",
     "model": "Phantom KT1240",
@@ -416,6 +431,7 @@
   },
   {
     "id": "phantom-kt840",
+    "sort_order": 4,
     "name": "Phantom KT840",
     "manufacturer": "Vision Research",
     "model": "Phantom KT840",
@@ -435,6 +451,7 @@
   },
   {
     "id": "phantom-kt1610",
+    "sort_order": 3,
     "name": "Phantom KT1610",
     "manufacturer": "Vision Research",
     "model": "Phantom KT1610",
@@ -454,6 +471,7 @@
   },
   {
     "id": "phantom-kt1210",
+    "sort_order": 2,
     "name": "Phantom KT1210",
     "manufacturer": "Vision Research",
     "model": "Phantom KT1210",
@@ -473,6 +491,7 @@
   },
   {
     "id": "phantom-kt810",
+    "sort_order": 1,
     "name": "Phantom KT810",
     "manufacturer": "Vision Research",
     "model": "Phantom KT810",
@@ -492,6 +511,7 @@
   },
   {
     "id": "blackfly-122s6m",
+    "sort_order": 3,
     "name": "Blackfly S 122S6M",
     "manufacturer": "Teledyne FLIR",
     "model": "BFS-U3-122S6M-C",
@@ -511,6 +531,7 @@
   },
   {
     "id": "blackfly-123s6m",
+    "sort_order": 4,
     "name": "Blackfly S 123S6M",
     "manufacturer": "Teledyne FLIR",
     "model": "BFS-U3-123S6M",
@@ -530,6 +551,7 @@
   },
   {
     "id": "blackfly-50s5m",
+    "sort_order": 1,
     "name": "Blackfly S 50S5M",
     "manufacturer": "Teledyne FLIR",
     "model": "BFS-U3-50S5M-C",
@@ -549,6 +571,7 @@
   },
   {
     "id": "blackfly-51s5m",
+    "sort_order": 2,
     "name": "Blackfly S 51S5M",
     "manufacturer": "Teledyne FLIR",
     "model": "BFS-U3-51S5M-C",
@@ -568,6 +591,7 @@
   },
   {
     "id": "photron-nova-s6",
+    "sort_order": 1,
     "name": "Photron FASTCAM NOVA S6",
     "manufacturer": "Photron",
     "model": "FASTCAM NOVA S6",
@@ -587,6 +611,7 @@
   },
   {
     "id": "photron-nova-s9",
+    "sort_order": 2,
     "name": "Photron FASTCAM NOVA S9",
     "manufacturer": "Photron",
     "model": "FASTCAM NOVA S9",
@@ -606,6 +631,7 @@
   },
   {
     "id": "photron-nova-s12",
+    "sort_order": 3,
     "name": "Photron FASTCAM NOVA S12",
     "manufacturer": "Photron",
     "model": "FASTCAM NOVA S12",
