@@ -128,6 +128,30 @@
     "category": "current"
   },
   {
+    "id": "zeiss-24m-25gige",
+    "name": "ARAMIS 24M",
+    "manufacturer": "ZEISS",
+    "model": "HB-25000-SB",
+    "sensor_model": "Sony IMX530",
+    "resolution_x": 5328,
+    "resolution_y": 4608,
+    "pixel_size_mm": 0.00274,
+    "sensor_type": "25GigE",
+    "chip_offset_x": 0.559,
+    "chip_offset_z": 33.81,
+    "chip_offset_y": 0.0,
+    "lens_mount": "C-mount",
+    "supported_lens_ids": [
+      "schneider-jade-12",
+      "schneider-jade-25",
+      "schneider-jade-50",
+      "opt-80"
+    ],
+    "is_high_speed": false,
+    "frame_rate_table_id": null,
+    "category": "current"
+  },
+  {
     "id": "zeiss-aramis-1",
     "name": "ARAMIS 1",
     "manufacturer": "ZEISS",
