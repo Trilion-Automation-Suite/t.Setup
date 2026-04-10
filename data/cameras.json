@@ -126,7 +126,15 @@
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 2
+    "sort_order": 2,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 2048,
+        "resolution_y": 1500,
+        "pixel_size_mm": 0.0069
+      }
+    ]
   },
   {
     "id": "zeiss-24m-25gige",
@@ -151,7 +159,15 @@
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 3
+    "sort_order": 3,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 2664,
+        "resolution_y": 2304,
+        "pixel_size_mm": 0.00548
+      }
+    ]
   },
   {
     "id": "zeiss-aramis-1",
@@ -200,7 +216,15 @@
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 4
+    "sort_order": 4,
+    "binning_modes": [
+      {
+        "name": "Binned (HD)",
+        "resolution_x": 1920,
+        "resolution_y": 1000,
+        "pixel_size_mm": 0.0055
+      }
+    ]
   },
   {
     "id": "zeiss-srx-hd-gige",
@@ -227,7 +251,8 @@
     "is_high_speed": false,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 5
+    "sort_order": 5,
+    "hidden": true
   },
   {
     "id": "phantom-tmx-6410",
@@ -267,7 +292,15 @@
     "supported_lens_ids": [],
     "is_high_speed": true,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 1280,
+        "resolution_y": 832,
+        "pixel_size_mm": 0.01854
+      }
+    ]
   },
   {
     "id": "photron-orion-s40",
@@ -367,7 +400,15 @@
     "supported_lens_ids": [],
     "is_high_speed": true,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 1280,
+        "resolution_y": 832,
+        "pixel_size_mm": 0.01854
+      }
+    ]
   },
   {
     "id": "phantom-kt1240",
@@ -387,7 +428,15 @@
     "supported_lens_ids": [],
     "is_high_speed": true,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 1280,
+        "resolution_y": 832,
+        "pixel_size_mm": 0.01854
+      }
+    ]
   },
   {
     "id": "phantom-kt840",
@@ -407,7 +456,15 @@
     "supported_lens_ids": [],
     "is_high_speed": true,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 1280,
+        "resolution_y": 832,
+        "pixel_size_mm": 0.01854
+      }
+    ]
   },
   {
     "id": "phantom-kt1610",
@@ -686,7 +743,15 @@
     "is_high_speed": true,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 3
+    "sort_order": 3,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 640,
+        "resolution_y": 480,
+        "pixel_size_mm": 0.036
+      }
+    ]
   },
   {
     "id": "phantom-veo-710",
@@ -726,7 +791,15 @@
     "is_high_speed": true,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 5
+    "sort_order": 5,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 640,
+        "resolution_y": 480,
+        "pixel_size_mm": 0.036
+      }
+    ]
   },
   {
     "id": "phantom-veo-1310",
@@ -746,7 +819,15 @@
     "is_high_speed": true,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 6
+    "sort_order": 6,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 640,
+        "resolution_y": 480,
+        "pixel_size_mm": 0.036
+      }
+    ]
   },
   {
     "id": "phantom-veo-e340l",
@@ -826,7 +907,15 @@
     "is_high_speed": true,
     "frame_rate_table_id": null,
     "category": "current",
-    "sort_order": 16
+    "sort_order": 16,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 1280,
+        "resolution_y": 832,
+        "pixel_size_mm": 0.01854
+      }
+    ]
   },
   {
     "id": "phantom-t1340",
@@ -846,7 +935,15 @@
     "is_high_speed": true,
     "frame_rate_table_id": null,
     "category": "legacy",
-    "sort_order": 21
+    "sort_order": 21,
+    "binning_modes": [
+      {
+        "name": "Binned",
+        "resolution_x": 1024,
+        "resolution_y": 976,
+        "pixel_size_mm": 0.027
+      }
+    ]
   },
   {
     "id": "phantom-v1212",
