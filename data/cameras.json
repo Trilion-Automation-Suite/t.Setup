@@ -943,6 +943,26 @@
     ]
   },
   {
+    "id": "phantom-t3610",
+    "sort_order": 18,
+    "name": "Phantom T3610",
+    "manufacturer": "Vision Research",
+    "model": "Phantom T3610",
+    "sensor_model": "T3610",
+    "resolution_x": 1280,
+    "resolution_y": 800,
+    "pixel_size_mm": 0.0185,
+    "sensor_type": "High-Speed",
+    "chip_offset_x": 0.0,
+    "chip_offset_z": 0.0,
+    "chip_offset_y": 0.0,
+    "lens_mount": "F-mount",
+    "supported_lens_ids": [],
+    "is_high_speed": true,
+    "frame_rate_table_id": "phantom-t3610",
+    "category": "current"
+  },
+  {
     "id": "phantom-t1340",
     "name": "Phantom T1340",
     "manufacturer": "Vision Research",

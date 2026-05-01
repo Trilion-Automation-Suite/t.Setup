@@ -1193,6 +1193,1571 @@
     "bit_depth": 12
   },
   {
+    "id": "phantom-t3610",
+    "camera_id": "phantom-t3610",
+    "firmware": "phfw.155",
+    "modes": {
+      "standard": [
+        {
+          "resolution_x": 256,
+          "resolution_y": 32,
+          "fps": 875000.0,
+          "gpx_s": 7.168,
+          "frame_counts": {
+            "64": 4449876
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 64,
+          "fps": 456521.7,
+          "gpx_s": 7.48,
+          "frame_counts": {
+            "64": 2383862
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 96,
+          "fps": 308823.5,
+          "gpx_s": 7.59,
+          "frame_counts": {
+            "64": 1628002
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 128,
+          "fps": 233333.3,
+          "gpx_s": 7.646,
+          "frame_counts": {
+            "64": 1236076
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 160,
+          "fps": 187500.0,
+          "gpx_s": 7.68,
+          "frame_counts": {
+            "64": 996240
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 192,
+          "fps": 156716.4,
+          "gpx_s": 7.703,
+          "frame_counts": {
+            "64": 814000
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 224,
+          "fps": 134615.4,
+          "gpx_s": 7.719,
+          "frame_counts": {
+            "64": 702612
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 256,
+          "fps": 117977.5,
+          "gpx_s": 7.732,
+          "frame_counts": {
+            "64": 618038
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 288,
+          "fps": 105000.0,
+          "gpx_s": 7.741,
+          "frame_counts": {
+            "64": 551636
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 320,
+          "fps": 94594.6,
+          "gpx_s": 7.749,
+          "frame_counts": {
+            "64": 498120
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 352,
+          "fps": 86065.6,
+          "gpx_s": 7.756,
+          "frame_counts": {
+            "64": 454068
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 384,
+          "fps": 78947.4,
+          "gpx_s": 7.761,
+          "frame_counts": {
+            "64": 417176
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 416,
+          "fps": 72916.7,
+          "gpx_s": 7.765,
+          "frame_counts": {
+            "64": 385826
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 448,
+          "fps": 67741.9,
+          "gpx_s": 7.769,
+          "frame_counts": {
+            "64": 358860
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 480,
+          "fps": 63253.0,
+          "gpx_s": 7.773,
+          "frame_counts": {
+            "64": 335416
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 512,
+          "fps": 59322.0,
+          "gpx_s": 7.775,
+          "frame_counts": {
+            "64": 311906
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 544,
+          "fps": 55851.1,
+          "gpx_s": 7.778,
+          "frame_counts": {
+            "64": 294044
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 576,
+          "fps": 52763.8,
+          "gpx_s": 7.78,
+          "frame_counts": {
+            "64": 278116
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 608,
+          "fps": 50000.0,
+          "gpx_s": 7.782,
+          "frame_counts": {
+            "64": 263826
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 640,
+          "fps": 47511.3,
+          "gpx_s": 7.784,
+          "frame_counts": {
+            "64": 250932
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 672,
+          "fps": 45258.6,
+          "gpx_s": 7.786,
+          "frame_counts": {
+            "64": 239240
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 704,
+          "fps": 43209.9,
+          "gpx_s": 7.787,
+          "frame_counts": {
+            "64": 228588
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 736,
+          "fps": 41338.6,
+          "gpx_s": 7.789,
+          "frame_counts": {
+            "64": 218846
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 768,
+          "fps": 39622.6,
+          "gpx_s": 7.79,
+          "frame_counts": {
+            "64": 209898
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 800,
+          "fps": 38043.5,
+          "gpx_s": 7.791,
+          "frame_counts": {
+            "64": 201656
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 32,
+          "fps": 875000.0,
+          "gpx_s": 14.336,
+          "frame_counts": {
+            "64": 2472154
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 64,
+          "fps": 456521.7,
+          "gpx_s": 14.959,
+          "frame_counts": {
+            "64": 1283618
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 96,
+          "fps": 308823.5,
+          "gpx_s": 15.179,
+          "frame_counts": {
+            "64": 866858
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 128,
+          "fps": 233333.3,
+          "gpx_s": 15.292,
+          "frame_counts": {
+            "64": 654392
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 160,
+          "fps": 187500.0,
+          "gpx_s": 15.36,
+          "frame_counts": {
+            "64": 525576
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 192,
+          "fps": 156716.4,
+          "gpx_s": 15.406,
+          "frame_counts": {
+            "64": 433428
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 224,
+          "fps": 134615.4,
+          "gpx_s": 15.439,
+          "frame_counts": {
+            "64": 372894
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 256,
+          "fps": 117977.5,
+          "gpx_s": 15.464,
+          "frame_counts": {
+            "64": 327196
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 288,
+          "fps": 105000.0,
+          "gpx_s": 15.483,
+          "frame_counts": {
+            "64": 291476
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 320,
+          "fps": 94594.6,
+          "gpx_s": 15.498,
+          "frame_counts": {
+            "64": 262788
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 352,
+          "fps": 86065.6,
+          "gpx_s": 15.511,
+          "frame_counts": {
+            "64": 239240
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 384,
+          "fps": 78947.4,
+          "gpx_s": 15.522,
+          "frame_counts": {
+            "64": 219566
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 416,
+          "fps": 72916.7,
+          "gpx_s": 15.531,
+          "frame_counts": {
+            "64": 202880
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 448,
+          "fps": 67741.9,
+          "gpx_s": 15.538,
+          "frame_counts": {
+            "64": 188554
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 480,
+          "fps": 63253.0,
+          "gpx_s": 15.545,
+          "frame_counts": {
+            "64": 176116
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 512,
+          "fps": 59322.0,
+          "gpx_s": 15.551,
+          "frame_counts": {
+            "64": 164404
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 544,
+          "fps": 55851.1,
+          "gpx_s": 15.556,
+          "frame_counts": {
+            "64": 154868
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 576,
+          "fps": 52763.8,
+          "gpx_s": 15.561,
+          "frame_counts": {
+            "64": 146376
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 608,
+          "fps": 50000.0,
+          "gpx_s": 15.565,
+          "frame_counts": {
+            "64": 138768
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 640,
+          "fps": 47511.3,
+          "gpx_s": 15.569,
+          "frame_counts": {
+            "64": 131912
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 672,
+          "fps": 45258.6,
+          "gpx_s": 15.572,
+          "frame_counts": {
+            "64": 125702
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 704,
+          "fps": 43209.9,
+          "gpx_s": 15.575,
+          "frame_counts": {
+            "64": 120050
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 736,
+          "fps": 41338.6,
+          "gpx_s": 15.578,
+          "frame_counts": {
+            "64": 114884
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 768,
+          "fps": 39622.6,
+          "gpx_s": 15.58,
+          "frame_counts": {
+            "64": 110144
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 800,
+          "fps": 38043.5,
+          "gpx_s": 15.583,
+          "frame_counts": {
+            "64": 105780
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 32,
+          "fps": 875000.0,
+          "gpx_s": 21.504,
+          "frame_counts": {
+            "64": 1711490
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 64,
+          "fps": 456521.7,
+          "gpx_s": 22.439,
+          "frame_counts": {
+            "64": 878264
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 96,
+          "fps": 308823.5,
+          "gpx_s": 22.769,
+          "frame_counts": {
+            "64": 590690
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 128,
+          "fps": 233333.3,
+          "gpx_s": 22.938,
+          "frame_counts": {
+            "64": 444986
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 160,
+          "fps": 187500.0,
+          "gpx_s": 23.04,
+          "frame_counts": {
+            "64": 356942
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 192,
+          "fps": 156716.4,
+          "gpx_s": 23.109,
+          "frame_counts": {
+            "64": 295344
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 224,
+          "fps": 134615.4,
+          "gpx_s": 23.158,
+          "frame_counts": {
+            "64": 253794
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 256,
+          "fps": 117977.5,
+          "gpx_s": 23.195,
+          "frame_counts": {
+            "64": 222492
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 288,
+          "fps": 105000.0,
+          "gpx_s": 23.224,
+          "frame_counts": {
+            "64": 198064
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 320,
+          "fps": 94594.6,
+          "gpx_s": 23.248,
+          "frame_counts": {
+            "64": 178470
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 352,
+          "fps": 86065.6,
+          "gpx_s": 23.267,
+          "frame_counts": {
+            "64": 162404
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 384,
+          "fps": 78947.4,
+          "gpx_s": 23.283,
+          "frame_counts": {
+            "64": 148990
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 416,
+          "fps": 72916.7,
+          "gpx_s": 23.296,
+          "frame_counts": {
+            "64": 137624
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 448,
+          "fps": 67741.9,
+          "gpx_s": 23.308,
+          "frame_counts": {
+            "64": 127870
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 480,
+          "fps": 63253.0,
+          "gpx_s": 23.318,
+          "frame_counts": {
+            "64": 119406
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 512,
+          "fps": 59322.0,
+          "gpx_s": 23.326,
+          "frame_counts": {
+            "64": 111618
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 544,
+          "fps": 55851.1,
+          "gpx_s": 23.334,
+          "frame_counts": {
+            "64": 105114
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 576,
+          "fps": 52763.8,
+          "gpx_s": 23.341,
+          "frame_counts": {
+            "64": 99326
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 608,
+          "fps": 50000.0,
+          "gpx_s": 23.347,
+          "frame_counts": {
+            "64": 94144
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 640,
+          "fps": 47511.3,
+          "gpx_s": 23.353,
+          "frame_counts": {
+            "64": 89474
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 672,
+          "fps": 45258.6,
+          "gpx_s": 23.358,
+          "frame_counts": {
+            "64": 85246
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 704,
+          "fps": 43209.9,
+          "gpx_s": 23.362,
+          "frame_counts": {
+            "64": 81400
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 736,
+          "fps": 41338.6,
+          "gpx_s": 23.367,
+          "frame_counts": {
+            "64": 77884
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 768,
+          "fps": 39622.6,
+          "gpx_s": 23.37,
+          "frame_counts": {
+            "64": 74662
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 768,
+          "resolution_y": 800,
+          "fps": 38043.5,
+          "gpx_s": 23.374,
+          "frame_counts": {
+            "64": 71694
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 32,
+          "fps": 875000.0,
+          "gpx_s": 28.672,
+          "frame_counts": {
+            "64": 1308786
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 64,
+          "fps": 456521.7,
+          "gpx_s": 29.919,
+          "frame_counts": {
+            "64": 667480
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 96,
+          "fps": 308823.5,
+          "gpx_s": 30.359,
+          "frame_counts": {
+            "64": 447974
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 128,
+          "fps": 233333.3,
+          "gpx_s": 30.583,
+          "frame_counts": {
+            "64": 337110
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 160,
+          "fps": 187500.0,
+          "gpx_s": 30.72,
+          "frame_counts": {
+            "64": 270234
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 192,
+          "fps": 156716.4,
+          "gpx_s": 30.812,
+          "frame_counts": {
+            "64": 223986
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 224,
+          "fps": 134615.4,
+          "gpx_s": 30.878,
+          "frame_counts": {
+            "64": 192356
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 256,
+          "fps": 117977.5,
+          "gpx_s": 30.927,
+          "frame_counts": {
+            "64": 168554
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 288,
+          "fps": 105000.0,
+          "gpx_s": 30.966,
+          "frame_counts": {
+            "64": 149994
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 320,
+          "fps": 94594.6,
+          "gpx_s": 30.997,
+          "frame_counts": {
+            "64": 135116
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 352,
+          "fps": 86065.6,
+          "gpx_s": 31.022,
+          "frame_counts": {
+            "64": 122924
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 384,
+          "fps": 78947.4,
+          "gpx_s": 31.043,
+          "frame_counts": {
+            "64": 112750
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 416,
+          "fps": 72916.7,
+          "gpx_s": 31.061,
+          "frame_counts": {
+            "64": 104130
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 448,
+          "fps": 67741.9,
+          "gpx_s": 31.077,
+          "frame_counts": {
+            "64": 96736
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 480,
+          "fps": 63253.0,
+          "gpx_s": 31.09,
+          "frame_counts": {
+            "64": 90322
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 512,
+          "fps": 59322.0,
+          "gpx_s": 31.102,
+          "frame_counts": {
+            "64": 84490
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 544,
+          "fps": 55851.1,
+          "gpx_s": 31.112,
+          "frame_counts": {
+            "64": 79556
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 576,
+          "fps": 52763.8,
+          "gpx_s": 31.121,
+          "frame_counts": {
+            "64": 75166
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 608,
+          "fps": 50000.0,
+          "gpx_s": 31.13,
+          "frame_counts": {
+            "64": 71236
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 640,
+          "fps": 47511.3,
+          "gpx_s": 31.137,
+          "frame_counts": {
+            "64": 67694
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 672,
+          "fps": 45258.6,
+          "gpx_s": 31.144,
+          "frame_counts": {
+            "64": 64490
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 704,
+          "fps": 43209.9,
+          "gpx_s": 31.15,
+          "frame_counts": {
+            "64": 61574
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 736,
+          "fps": 41338.6,
+          "gpx_s": 31.155,
+          "frame_counts": {
+            "64": 58912
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 768,
+          "fps": 39622.6,
+          "gpx_s": 31.16,
+          "frame_counts": {
+            "64": 56470
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1024,
+          "resolution_y": 800,
+          "fps": 38043.5,
+          "gpx_s": 31.165,
+          "frame_counts": {
+            "64": 54222
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 32,
+          "fps": 875000.0,
+          "gpx_s": 35.84,
+          "frame_counts": {
+            "64": 1026894
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 64,
+          "fps": 456521.7,
+          "gpx_s": 37.398,
+          "frame_counts": {
+            "64": 529746
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 96,
+          "fps": 308823.5,
+          "gpx_s": 37.948,
+          "frame_counts": {
+            "64": 353164
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 128,
+          "fps": 233333.3,
+          "gpx_s": 38.229,
+          "frame_counts": {
+            "64": 264872
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 160,
+          "fps": 187500.0,
+          "gpx_s": 38.4,
+          "frame_counts": {
+            "64": 213252
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 192,
+          "fps": 156716.4,
+          "gpx_s": 38.515,
+          "frame_counts": {
+            "64": 177520
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 224,
+          "fps": 134615.4,
+          "gpx_s": 38.597,
+          "frame_counts": {
+            "64": 152044
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 256,
+          "fps": 117977.5,
+          "gpx_s": 38.659,
+          "frame_counts": {
+            "64": 132964
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 288,
+          "fps": 105000.0,
+          "gpx_s": 38.707,
+          "frame_counts": {
+            "64": 118558
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 320,
+          "fps": 94594.6,
+          "gpx_s": 38.746,
+          "frame_counts": {
+            "64": 106626
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 352,
+          "fps": 86065.6,
+          "gpx_s": 38.778,
+          "frame_counts": {
+            "64": 96876
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 384,
+          "fps": 78947.4,
+          "gpx_s": 38.804,
+          "frame_counts": {
+            "64": 88996
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 416,
+          "fps": 72916.7,
+          "gpx_s": 38.827,
+          "frame_counts": {
+            "64": 82100
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 448,
+          "fps": 67741.9,
+          "gpx_s": 38.846,
+          "frame_counts": {
+            "64": 76196
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 480,
+          "fps": 63253.0,
+          "gpx_s": 38.863,
+          "frame_counts": {
+            "64": 71236
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 512,
+          "fps": 59322.0,
+          "gpx_s": 38.877,
+          "frame_counts": {
+            "64": 66748
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 544,
+          "fps": 55851.1,
+          "gpx_s": 38.89,
+          "frame_counts": {
+            "64": 62792
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 576,
+          "fps": 52763.8,
+          "gpx_s": 38.902,
+          "frame_counts": {
+            "64": 59278
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 608,
+          "fps": 50000.0,
+          "gpx_s": 38.912,
+          "frame_counts": {
+            "64": 56232
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 640,
+          "fps": 47511.3,
+          "gpx_s": 38.921,
+          "frame_counts": {
+            "64": 53398
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 672,
+          "fps": 45258.6,
+          "gpx_s": 38.93,
+          "frame_counts": {
+            "64": 50836
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 704,
+          "fps": 43209.9,
+          "gpx_s": 38.937,
+          "frame_counts": {
+            "64": 48578
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 736,
+          "fps": 41338.6,
+          "gpx_s": 38.944,
+          "frame_counts": {
+            "64": 46448
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 768,
+          "fps": 39622.6,
+          "gpx_s": 38.951,
+          "frame_counts": {
+            "64": 44498
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 1280,
+          "resolution_y": 800,
+          "fps": 38043.5,
+          "gpx_s": 38.957,
+          "frame_counts": {
+            "64": 42758
+          },
+          "valid": true
+        }
+      ],
+      "binning": [
+        {
+          "resolution_x": 128,
+          "resolution_y": 64,
+          "fps": 875000.0,
+          "gpx_s": 7.168,
+          "frame_counts": {
+            "64": 4449876
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 128,
+          "resolution_y": 128,
+          "fps": 456521.7,
+          "gpx_s": 7.48,
+          "frame_counts": {
+            "64": 2383862
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 128,
+          "resolution_y": 192,
+          "fps": 308823.5,
+          "gpx_s": 7.59,
+          "frame_counts": {
+            "64": 1628002
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 128,
+          "resolution_y": 256,
+          "fps": 233333.3,
+          "gpx_s": 7.646,
+          "frame_counts": {
+            "64": 1236076
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 128,
+          "resolution_y": 320,
+          "fps": 187500.0,
+          "gpx_s": 7.68,
+          "frame_counts": {
+            "64": 996240
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 128,
+          "resolution_y": 384,
+          "fps": 156716.4,
+          "gpx_s": 7.703,
+          "frame_counts": {
+            "64": 814000
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 64,
+          "fps": 875000.0,
+          "gpx_s": 14.336,
+          "frame_counts": {
+            "64": 2472154
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 128,
+          "fps": 456521.7,
+          "gpx_s": 14.959,
+          "frame_counts": {
+            "64": 1283618
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 192,
+          "fps": 308823.5,
+          "gpx_s": 15.179,
+          "frame_counts": {
+            "64": 866858
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 256,
+          "fps": 233333.3,
+          "gpx_s": 15.292,
+          "frame_counts": {
+            "64": 654392
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 320,
+          "fps": 187500.0,
+          "gpx_s": 15.36,
+          "frame_counts": {
+            "64": 525576
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 256,
+          "resolution_y": 384,
+          "fps": 156716.4,
+          "gpx_s": 15.406,
+          "frame_counts": {
+            "64": 433428
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 384,
+          "resolution_y": 64,
+          "fps": 875000.0,
+          "gpx_s": 21.504,
+          "frame_counts": {
+            "64": 1711490
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 384,
+          "resolution_y": 128,
+          "fps": 456521.7,
+          "gpx_s": 22.439,
+          "frame_counts": {
+            "64": 878264
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 384,
+          "resolution_y": 192,
+          "fps": 308823.5,
+          "gpx_s": 22.769,
+          "frame_counts": {
+            "64": 590690
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 384,
+          "resolution_y": 256,
+          "fps": 233333.3,
+          "gpx_s": 22.938,
+          "frame_counts": {
+            "64": 444986
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 384,
+          "resolution_y": 320,
+          "fps": 187500.0,
+          "gpx_s": 23.04,
+          "frame_counts": {
+            "64": 356942
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 384,
+          "resolution_y": 384,
+          "fps": 156716.4,
+          "gpx_s": 23.109,
+          "frame_counts": {
+            "64": 295344
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 64,
+          "fps": 875000.0,
+          "gpx_s": 28.672,
+          "frame_counts": {
+            "64": 1308786
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 128,
+          "fps": 456521.7,
+          "gpx_s": 29.919,
+          "frame_counts": {
+            "64": 667480
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 192,
+          "fps": 308823.5,
+          "gpx_s": 30.359,
+          "frame_counts": {
+            "64": 447974
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 256,
+          "fps": 233333.3,
+          "gpx_s": 30.583,
+          "frame_counts": {
+            "64": 337110
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 320,
+          "fps": 187500.0,
+          "gpx_s": 30.72,
+          "frame_counts": {
+            "64": 270234
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 512,
+          "resolution_y": 384,
+          "fps": 156716.4,
+          "gpx_s": 30.812,
+          "frame_counts": {
+            "64": 223986
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 640,
+          "resolution_y": 64,
+          "fps": 875000.0,
+          "gpx_s": 35.84,
+          "frame_counts": {
+            "64": 1026894
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 640,
+          "resolution_y": 128,
+          "fps": 456521.7,
+          "gpx_s": 37.398,
+          "frame_counts": {
+            "64": 529746
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 640,
+          "resolution_y": 192,
+          "fps": 308823.5,
+          "gpx_s": 37.948,
+          "frame_counts": {
+            "64": 353164
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 640,
+          "resolution_y": 256,
+          "fps": 233333.3,
+          "gpx_s": 38.229,
+          "frame_counts": {
+            "64": 264872
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 640,
+          "resolution_y": 320,
+          "fps": 187500.0,
+          "gpx_s": 38.4,
+          "frame_counts": {
+            "64": 213252
+          },
+          "valid": true
+        },
+        {
+          "resolution_x": 640,
+          "resolution_y": 384,
+          "fps": 156716.4,
+          "gpx_s": 38.515,
+          "frame_counts": {
+            "64": 177520
+          },
+          "valid": true
+        }
+      ]
+    },
+    "buffer_sizes_gb": [
+      64
+    ],
+    "bit_depth": 12
+  },
+  {
     "id": "phantom-t4040",
     "camera_id": "phantom-t4040",
     "firmware": "phfw.155",
