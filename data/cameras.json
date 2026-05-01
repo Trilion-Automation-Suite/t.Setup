@@ -124,7 +124,7 @@
       "opt-80"
     ],
     "is_high_speed": false,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "zeiss-12m-usb",
     "category": "current",
     "sort_order": 2,
     "binning_modes": [
@@ -157,7 +157,7 @@
       "opt-80"
     ],
     "is_high_speed": false,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "zeiss-24m-25gige",
     "category": "current",
     "sort_order": 3,
     "binning_modes": [
@@ -188,7 +188,7 @@
       "aramis1-25"
     ],
     "is_high_speed": false,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "zeiss-aramis-1",
     "category": "current",
     "sort_order": 1
   },
@@ -214,7 +214,7 @@
       "titanar-100"
     ],
     "is_high_speed": false,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "zeiss-srx-gige",
     "category": "current",
     "sort_order": 4,
     "binning_modes": [
@@ -224,7 +224,12 @@
         "resolution_y": 1000,
         "pixel_size_mm": 0.0055
       }
-    ]
+    ],
+    "custom_window": {
+      "res_x_step": 32,
+      "res_y_step": 4,
+      "max_gpx_s": 1.37
+    }
   },
   {
     "id": "zeiss-srx-hd-gige",
@@ -291,7 +296,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-kt1640",
     "category": "current",
     "binning_modes": [
       {
@@ -399,7 +404,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-t4040",
     "category": "current",
     "binning_modes": [
       {
@@ -427,7 +432,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-kt1240",
     "category": "current",
     "binning_modes": [
       {
@@ -483,7 +488,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-kt1610",
     "category": "current"
   },
   {
@@ -503,7 +508,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-kt1210",
     "category": "current"
   },
   {
@@ -523,7 +528,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-kt810",
     "category": "current"
   },
   {
@@ -544,7 +549,12 @@
     "supported_lens_ids": [],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "custom_window": {
+      "res_x_step": 4,
+      "res_y_step": 2,
+      "max_gpx_s": 0.21
+    }
   },
   {
     "id": "blackfly-123s6m",
@@ -564,7 +574,12 @@
     "supported_lens_ids": [],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "custom_window": {
+      "res_x_step": 4,
+      "res_y_step": 2,
+      "max_gpx_s": 0.21
+    }
   },
   {
     "id": "blackfly-50s5m",
@@ -584,7 +599,12 @@
     "supported_lens_ids": [],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "custom_window": {
+      "res_x_step": 4,
+      "res_y_step": 2,
+      "max_gpx_s": 0.1
+    }
   },
   {
     "id": "blackfly-51s5m",
@@ -604,7 +624,12 @@
     "supported_lens_ids": [],
     "is_high_speed": false,
     "frame_rate_table_id": null,
-    "category": "current"
+    "category": "current",
+    "custom_window": {
+      "res_x_step": 4,
+      "res_y_step": 2,
+      "max_gpx_s": 0.1
+    }
   },
   {
     "id": "photron-nova-s6",
@@ -701,7 +726,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-e310l",
     "category": "current",
     "sort_order": 1
   },
@@ -721,7 +746,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-410",
     "category": "current",
     "sort_order": 2
   },
@@ -741,7 +766,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-610",
     "category": "current",
     "sort_order": 3,
     "binning_modes": [
@@ -769,7 +794,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-710",
     "category": "current",
     "sort_order": 4
   },
@@ -789,7 +814,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-1010",
     "category": "current",
     "sort_order": 5,
     "binning_modes": [
@@ -817,7 +842,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-1310",
     "category": "current",
     "sort_order": 6,
     "binning_modes": [
@@ -845,7 +870,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-e340l",
     "category": "current",
     "sort_order": 7
   },
@@ -865,7 +890,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-340",
     "category": "current",
     "sort_order": 8
   },
@@ -885,7 +910,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-veo-640",
     "category": "current",
     "sort_order": 9
   },
@@ -905,7 +930,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-t2540",
     "category": "current",
     "sort_order": 16,
     "binning_modes": [
@@ -933,7 +958,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-t1340",
     "category": "legacy",
     "sort_order": 21,
     "binning_modes": [
@@ -961,7 +986,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-v1212",
     "category": "legacy",
     "sort_order": 22
   },
@@ -981,7 +1006,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-v1612",
     "category": "legacy",
     "sort_order": 23
   },
@@ -1001,7 +1026,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-v2012",
     "category": "legacy",
     "sort_order": 24
   },
@@ -1021,7 +1046,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-v2512",
     "category": "legacy",
     "sort_order": 25
   },
@@ -1041,7 +1066,7 @@
     "lens_mount": "F-mount",
     "supported_lens_ids": [],
     "is_high_speed": true,
-    "frame_rate_table_id": null,
+    "frame_rate_table_id": "phantom-v2640",
     "category": "legacy",
     "sort_order": 26
   },

@@ -1,0 +1,6 @@
+# Personal / per-machine — NEVER commit
+.DS_Store
+.claude/
+.claude-flow/
+*.log
+node_modules/
