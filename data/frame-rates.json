@@ -13055,8 +13055,38 @@
         {
           "resolution_x": 4096,
           "resolution_y": 3000,
-          "fps": 30.0,
-          "gpx_s": 0.369,
+          "fps": 25.0,
+          "gpx_s": 0.307,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "crop_5mp_center": [
+        {
+          "resolution_x": 2496,
+          "resolution_y": 2096,
+          "fps": 43.0,
+          "gpx_s": 0.225,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "crop_1_3_height": [
+        {
+          "resolution_x": 4096,
+          "resolution_y": 1000,
+          "fps": 75.0,
+          "gpx_s": 0.307,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "crop_1_6_height": [
+        {
+          "resolution_x": 4096,
+          "resolution_y": 500,
+          "fps": 150.0,
+          "gpx_s": 0.307,
           "frame_counts": {},
           "valid": true
         }
@@ -13065,8 +13095,8 @@
         {
           "resolution_x": 2048,
           "resolution_y": 1500,
-          "fps": 116.0,
-          "gpx_s": 0.356,
+          "fps": 100.0,
+          "gpx_s": 0.307,
           "frame_counts": {},
           "valid": true
         }
@@ -13090,36 +13120,6 @@
           "frame_counts": {},
           "valid": true
         }
-      ],
-      "crop_5mp_center": [
-        {
-          "resolution_x": 2592,
-          "resolution_y": 1944,
-          "fps": 75.0,
-          "gpx_s": 0.378,
-          "frame_counts": {},
-          "valid": true
-        }
-      ],
-      "crop_1_3": [
-        {
-          "resolution_x": 4096,
-          "resolution_y": 1000,
-          "fps": 75.0,
-          "gpx_s": 0.307,
-          "frame_counts": {},
-          "valid": true
-        }
-      ],
-      "crop_1_6": [
-        {
-          "resolution_x": 4096,
-          "resolution_y": 500,
-          "fps": 150.0,
-          "gpx_s": 0.307,
-          "frame_counts": {},
-          "valid": true
-        }
       ]
     },
     "buffer_sizes_gb": [],
@@ -13131,10 +13131,50 @@
     "modes": {
       "standard": [
         {
-          "resolution_x": 5328,
-          "resolution_y": 4608,
-          "fps": 98.0,
-          "gpx_s": 2.406,
+          "resolution_x": 5312,
+          "resolution_y": 4432,
+          "fps": 100.0,
+          "gpx_s": 2.354,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "crop_1_2_height": [
+        {
+          "resolution_x": 5312,
+          "resolution_y": 2216,
+          "fps": 185.0,
+          "gpx_s": 2.178,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "crop_1_3_height": [
+        {
+          "resolution_x": 5312,
+          "resolution_y": 1477,
+          "fps": 270.0,
+          "gpx_s": 2.118,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "crop_hd": [
+        {
+          "resolution_x": 1920,
+          "resolution_y": 1088,
+          "fps": 360.0,
+          "gpx_s": 0.752,
+          "frame_counts": {},
+          "valid": true
+        }
+      ],
+      "binning_2x2": [
+        {
+          "resolution_x": 2656,
+          "resolution_y": 2216,
+          "fps": 350.0,
+          "gpx_s": 2.06,
           "frame_counts": {},
           "valid": true
         }
@@ -13158,17 +13198,17 @@
         },
         {
           "resolution_x": 2472,
-          "resolution_y": 1032,
+          "resolution_y": 1024,
           "fps": 100.0,
-          "gpx_s": 0.255,
+          "gpx_s": 0.253,
           "frame_counts": {},
           "valid": true
         },
         {
           "resolution_x": 2472,
-          "resolution_y": 688,
+          "resolution_y": 512,
           "fps": 150.0,
-          "gpx_s": 0.255,
+          "gpx_s": 0.19,
           "frame_counts": {},
           "valid": true
         }
@@ -13185,8 +13225,40 @@
         {
           "resolution_x": 4096,
           "resolution_y": 3068,
-          "fps": 92.0,
-          "gpx_s": 1.156,
+          "fps": 75.0,
+          "gpx_s": 0.942,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 4096,
+          "resolution_y": 2048,
+          "fps": 115.0,
+          "gpx_s": 0.965,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 4096,
+          "resolution_y": 1024,
+          "fps": 230.0,
+          "gpx_s": 0.965,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 4096,
+          "resolution_y": 512,
+          "fps": 480.0,
+          "gpx_s": 1.007,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 1920,
+          "resolution_y": 1000,
+          "fps": 490.0,
+          "gpx_s": 0.941,
           "frame_counts": {},
           "valid": true
         }
@@ -13199,24 +13271,36 @@
           "gpx_s": 4.21,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_2k_height": [
+        },
         {
           "resolution_x": 4096,
           "resolution_y": 2048,
-          "fps": 138.0,
-          "gpx_s": 1.158,
+          "fps": 500.0,
+          "gpx_s": 4.194,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_hd": [
+        },
+        {
+          "resolution_x": 4096,
+          "resolution_y": 1024,
+          "fps": 1000.0,
+          "gpx_s": 4.194,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 4096,
+          "resolution_y": 512,
+          "fps": 2000.0,
+          "gpx_s": 4.194,
+          "frame_counts": {},
+          "valid": true
+        },
         {
           "resolution_x": 1920,
-          "resolution_y": 1080,
-          "fps": 261.0,
-          "gpx_s": 0.541,
+          "resolution_y": 1000,
+          "fps": 1000.0,
+          "gpx_s": 1.92,
           "frame_counts": {},
           "valid": true
         }
