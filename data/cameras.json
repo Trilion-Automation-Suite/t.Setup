@@ -190,7 +190,12 @@
     "is_high_speed": false,
     "frame_rate_table_id": "zeiss-aramis-1",
     "category": "current",
-    "sort_order": 1
+    "sort_order": 1,
+    "custom_window": {
+      "res_x_step": 4,
+      "res_y_step": 2,
+      "max_gpx_s": 0.26
+    }
   },
   {
     "id": "zeiss-srx-gige",

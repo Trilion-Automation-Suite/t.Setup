@@ -13151,8 +13151,24 @@
         {
           "resolution_x": 2472,
           "resolution_y": 2064,
-          "fps": 130.0,
-          "gpx_s": 0.663,
+          "fps": 50.0,
+          "gpx_s": 0.255,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 2472,
+          "resolution_y": 1032,
+          "fps": 100.0,
+          "gpx_s": 0.255,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 2472,
+          "resolution_y": 688,
+          "fps": 150.0,
+          "gpx_s": 0.255,
           "frame_counts": {},
           "valid": true
         }
