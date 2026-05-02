@@ -2710,7 +2710,9 @@
     {
       "id": "ax-mv300-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV300",
       "lens_focal_length_mm": 20.0,
@@ -2732,7 +2734,9 @@
     {
       "id": "ax-mv350-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV350",
       "lens_focal_length_mm": 20.0,
@@ -2754,7 +2758,9 @@
     {
       "id": "ax-mv500-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV500",
       "lens_focal_length_mm": 20.0,
@@ -2776,7 +2782,9 @@
     {
       "id": "ax-mv750-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV750",
       "lens_focal_length_mm": 20.0,
@@ -2798,7 +2806,9 @@
     {
       "id": "ax-mv800-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV800",
       "lens_focal_length_mm": 20.0,
@@ -2820,7 +2830,9 @@
     {
       "id": "ax-mv1000-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV1000",
       "lens_focal_length_mm": 20.0,
@@ -2842,7 +2854,9 @@
     {
       "id": "ax-mv1150-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV1150",
       "lens_focal_length_mm": 20.0,
@@ -2864,7 +2878,9 @@
     {
       "id": "ax-mv1200-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV1200",
       "lens_focal_length_mm": 20.0,
@@ -2886,7 +2902,9 @@
     {
       "id": "ax-mv1400-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV1400",
       "lens_focal_length_mm": 20.0,
@@ -2908,7 +2926,9 @@
     {
       "id": "ax-mv1600-20",
       "camera_ids": [
-        "photron-mini-ax200"
+        "photron-mini-ax200",
+        "photron-mini-ax100",
+        "photron-mini-ax50"
       ],
       "name": "AX MV1600",
       "lens_focal_length_mm": 20.0,
@@ -3365,6 +3385,466 @@
       "working_distance_mm": 1809,
       "slider_distance_mm": 624,
       "clear_width_mm": 1684,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv190-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV190",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 190,
+      "field_h_mm": 152,
+      "field_d_mm": null,
+      "calibration_object": "CP20 175x140",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 384,
+      "slider_distance_mm": 0,
+      "clear_width_mm": 313,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv250-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV250",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 250,
+      "field_h_mm": 200,
+      "field_d_mm": null,
+      "calibration_object": "CP20 250x200",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 486,
+      "slider_distance_mm": 45,
+      "clear_width_mm": 420,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv350-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV350",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 350,
+      "field_h_mm": 280,
+      "field_d_mm": null,
+      "calibration_object": "CP20 350x280",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 654,
+      "slider_distance_mm": 120,
+      "clear_width_mm": 597,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv500-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV500",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 500,
+      "field_h_mm": 400,
+      "field_d_mm": null,
+      "calibration_object": "CC20 500x400",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 889,
+      "slider_distance_mm": 224,
+      "clear_width_mm": 844,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv600-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV600",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 600,
+      "field_h_mm": 480,
+      "field_d_mm": null,
+      "calibration_object": "CC20 500x400",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1076,
+      "slider_distance_mm": 307,
+      "clear_width_mm": 1040,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv700-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV700",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 700,
+      "field_h_mm": 560,
+      "field_d_mm": null,
+      "calibration_object": "CC20 700x560",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1244,
+      "slider_distance_mm": 381,
+      "clear_width_mm": 1217,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv750-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV750",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 750,
+      "field_h_mm": 600,
+      "field_d_mm": null,
+      "calibration_object": "CC20 700x560",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1340,
+      "slider_distance_mm": 424,
+      "clear_width_mm": 1318,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv800-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV800",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 800,
+      "field_h_mm": 640,
+      "field_d_mm": null,
+      "calibration_object": "CC20 700x560",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1413,
+      "slider_distance_mm": 456,
+      "clear_width_mm": 1394,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv900-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV900",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 900,
+      "field_h_mm": 720,
+      "field_d_mm": null,
+      "calibration_object": "CC20 1000x800",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1582,
+      "slider_distance_mm": 531,
+      "clear_width_mm": 1571,
+      "legacy": false
+    },
+    {
+      "id": "ux-mv1000-20",
+      "camera_ids": [
+        "photron-mini-ux100",
+        "photron-mini-ux50"
+      ],
+      "name": "UX MV1000",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 1000,
+      "field_h_mm": 800,
+      "field_d_mm": null,
+      "calibration_object": "CC20 1000x800",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1791,
+      "slider_distance_mm": 624,
+      "clear_width_mm": 1791,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv300-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV300",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 300,
+      "field_h_mm": 300,
+      "field_d_mm": null,
+      "calibration_object": "CP20 250x200",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 384,
+      "slider_distance_mm": 0,
+      "clear_width_mm": 313,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv400-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV400",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 400,
+      "field_h_mm": 400,
+      "field_d_mm": null,
+      "calibration_object": "CP20 350x280",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 501,
+      "slider_distance_mm": 52,
+      "clear_width_mm": 436,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv600-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV600",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 600,
+      "field_h_mm": 600,
+      "field_d_mm": null,
+      "calibration_object": "CC20 500x400",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 719,
+      "slider_distance_mm": 149,
+      "clear_width_mm": 666,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv750-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV750",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 750,
+      "field_h_mm": 750,
+      "field_d_mm": null,
+      "calibration_object": "CC20 700x560",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 889,
+      "slider_distance_mm": 224,
+      "clear_width_mm": 844,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv800-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV800",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 800,
+      "field_h_mm": 800,
+      "field_d_mm": null,
+      "calibration_object": "CC20 700x560",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 938,
+      "slider_distance_mm": 246,
+      "clear_width_mm": 895,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv1000-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV1000",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 1000,
+      "field_h_mm": 1000,
+      "field_d_mm": null,
+      "calibration_object": "CC20 1000x800",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1157,
+      "slider_distance_mm": 343,
+      "clear_width_mm": 1125,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv1150-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV1150",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 1150,
+      "field_h_mm": 1150,
+      "field_d_mm": null,
+      "calibration_object": "CC20 1400x1120",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1340,
+      "slider_distance_mm": 424,
+      "clear_width_mm": 1318,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv1250-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV1250",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 1250,
+      "field_h_mm": 1250,
+      "field_d_mm": null,
+      "calibration_object": "CC20 1400x1120",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1430,
+      "slider_distance_mm": 464,
+      "clear_width_mm": 1412,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv1400-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV1400",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 1400,
+      "field_h_mm": 1400,
+      "field_d_mm": null,
+      "calibration_object": "CC20 2000x1600",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1594,
+      "slider_distance_mm": 537,
+      "clear_width_mm": 1584,
+      "legacy": false
+    },
+    {
+      "id": "wx-mv1600-20",
+      "camera_ids": [
+        "photron-mini-wx100",
+        "photron-mini-wx50"
+      ],
+      "name": "WX MV1600",
+      "lens_focal_length_mm": 20.0,
+      "lens_manufacturer_hint": "Titanar",
+      "field_w_mm": 1600,
+      "field_h_mm": 1600,
+      "field_d_mm": null,
+      "calibration_object": "CC20 2000x1600",
+      "aperture_f": null,
+      "lighting_angle_deg": null,
+      "marker_sizes_mm": [
+        0.4
+      ],
+      "working_distance_mm": 1791,
+      "slider_distance_mm": 624,
+      "clear_width_mm": 1791,
       "legacy": false
     }
   ]
