@@ -142,8 +142,8 @@
     "manufacturer": "ZEISS",
     "model": "HB-25000-SB",
     "sensor_model": "Sony IMX530",
-    "resolution_x": 5328,
-    "resolution_y": 4608,
+    "resolution_x": 5312,
+    "resolution_y": 4448,
     "pixel_size_mm": 0.00274,
     "sensor_type": "25GigE",
     "chip_offset_x": 0.559,
@@ -163,8 +163,8 @@
     "binning_modes": [
       {
         "name": "Binned",
-        "resolution_x": 2664,
-        "resolution_y": 2304,
+        "resolution_x": 2656,
+        "resolution_y": 2224,
         "pixel_size_mm": 0.00548
       }
     ]
