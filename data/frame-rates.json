@@ -13059,19 +13059,7 @@
           "gpx_s": 0.307,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_5mp_center": [
-        {
-          "resolution_x": 2496,
-          "resolution_y": 2096,
-          "fps": 43.0,
-          "gpx_s": 0.225,
-          "frame_counts": {},
-          "valid": true
-        }
-      ],
-      "crop_1_3_height": [
+        },
         {
           "resolution_x": 4096,
           "resolution_y": 1000,
@@ -13079,14 +13067,20 @@
           "gpx_s": 0.307,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_1_6_height": [
+        },
         {
           "resolution_x": 4096,
           "resolution_y": 500,
           "fps": 150.0,
           "gpx_s": 0.307,
+          "frame_counts": {},
+          "valid": true
+        },
+        {
+          "resolution_x": 2496,
+          "resolution_y": 2096,
+          "fps": 43.0,
+          "gpx_s": 0.225,
           "frame_counts": {},
           "valid": true
         }
@@ -13097,26 +13091,6 @@
           "resolution_y": 1500,
           "fps": 100.0,
           "gpx_s": 0.307,
-          "frame_counts": {},
-          "valid": true
-        }
-      ],
-      "binning_2x1": [
-        {
-          "resolution_x": 2048,
-          "resolution_y": 3000,
-          "fps": 31.0,
-          "gpx_s": 0.19,
-          "frame_counts": {},
-          "valid": true
-        }
-      ],
-      "binning_1x2": [
-        {
-          "resolution_x": 4096,
-          "resolution_y": 1500,
-          "fps": 31.0,
-          "gpx_s": 0.19,
           "frame_counts": {},
           "valid": true
         }
@@ -13137,9 +13111,7 @@
           "gpx_s": 2.354,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_1_2_height": [
+        },
         {
           "resolution_x": 5312,
           "resolution_y": 2216,
@@ -13147,9 +13119,7 @@
           "gpx_s": 2.178,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_1_3_height": [
+        },
         {
           "resolution_x": 5312,
           "resolution_y": 1477,
@@ -13157,9 +13127,7 @@
           "gpx_s": 2.118,
           "frame_counts": {},
           "valid": true
-        }
-      ],
-      "crop_hd": [
+        },
         {
           "resolution_x": 1920,
           "resolution_y": 1088,
